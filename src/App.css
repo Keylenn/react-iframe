@@ -1,0 +1,11 @@
+@import "//at.alicdn.com/t/font_3103569_vvhd5mu2zbk.css";
+
+.top {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
